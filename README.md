@@ -5,8 +5,8 @@
 - 🌱 I’m learning: React Native, TensorFlow, Gemini API, YOLOv8
 - 👯 I’m looking to collaborate on: Open-source ML/AI projects
 - 💬 Ask me about: Web Development, AI, ML, Python
-- 📫 How to reach me: [[Your email or LinkedIn](https://www.linkedin.com/in/abhaytiwari30)]
-- 📄 Know more about me: [[Link to your resume or portfolio](https://drive.google.com/file/d/1x1aV5M8_U96Lh98LMwbwX20yR1DjrKjV/view?usp=drive_link)]
+- 📫 How to reach me: [[LinkedIn](https://www.linkedin.com/in/abhaytiwari30)]
+- 📄 Know more about me: [[Resume](https://drive.google.com/file/d/1x1aV5M8_U96Lh98LMwbwX20yR1DjrKjV/view?usp=drive_link)]
 
 ---
 
