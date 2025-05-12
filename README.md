@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhay Tiwari</h1>
-<h3 align="center">A Passionate AI/ML Enthusiast | Full Stack Developer | Final-Year B.Tech Student</h3>
+<h3 align="center">A Passionate AI/ML Enthusiast | Developer | Third-Year B.Tech Student</h3>
 
 ---
 
@@ -8,7 +8,7 @@
 🎓 I'm currently pursuing **B.Tech in Computer Science** from SRMSCET&R, Bareilly  
 💡 Actively building real-world projects in AI, Machine Learning, and Web Technologies  
 🚀 Always exploring new tools and technologies to solve real-life problems  
-📫 Reach me at **abhaytiwari303@gmail.com**  
+📫 Reach me at **at3032003@gmail.com**  
 🌐 Portfolio Website: [Coming Soon]  
 🛠️ Tech Stack: Python, TensorFlow, Keras, React, Node.js, Streamlit, Git, and more
 
@@ -37,7 +37,7 @@ A CNN-based digit recognition system built with TensorFlow/Keras on the MNIST da
 
 ## 🏆 Achievements & Activities
 
-- ✅ Finalist at Smart India Hackathon (SIH)
+- ✅ Participent at Smart India Hackathon (SIH)
 - 🥇 Naukri Young Turn Around Rank: **7111**
 - 👨‍💼 Placement Coordinator at SRMSCET&R
 - 🎓 Merit-based scholarship holder
