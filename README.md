@@ -68,13 +68,6 @@ A CNN-based digit recognition system built with TensorFlow/Keras on the MNIST da
 
 ---
 
-## 📈 GitHub Stats
-
-![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhaytiwari303&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhaytiwari303&layout=compact&theme=radical)
-
----
-
 ### 📫 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/abhaytiwari30/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:at3032003@gmail.com)
